@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\CompassTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\CompassTest\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\CompassTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\compass.png",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\CompassTest\\app\\src\\main\\res\\drawable-hdpi\\compass.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\CompassTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow.png",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\CompassTest\\app\\src\\main\\res\\drawable-hdpi\\arrow.png"
+    }
+]
